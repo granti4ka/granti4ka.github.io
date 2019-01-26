@@ -1,5 +1,5 @@
 # granti4ka.github.io
-Grant Vysotskyi | Ukraine | DevOps Engineer | [<< My Personal Page >>](https://granti4ka.github.io/)
+Grant Vysotskyi | Ukraine | DevOps Engineer | [<< My Personal Page HERE >>](https://granti4ka.github.io/)
 
 ## License
 
